@@ -110,16 +110,54 @@ Enterprise SaaS platform built with:
 
 ---
 
-## 🤝 Connect With Me
+## 🌐 Portfolio
 
-<p align="left">
-<a href="https://linkedin.com/in/Yashdingankar">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
-</a>
-<a href="mailto:24yashbari@gmail.com">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Gmail.svg" width="35"/>
+<p align="center">
+<a href="https://yashbariportfolio.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 </p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/yash-bari-143467216" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Yash%20Bari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.facebook.com/yash.bari.391" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-Yash%20Bari-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+
+<a href="https://www.instagram.com/yashrawat25/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-@yashrawat25-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UChjQ3i7XWcFz6LtcHT9uZSw" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-Yash%20Bari-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+<a href="mailto:24yashbari@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-24yashbari%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
+---
+
+### 🌍 Website
+
+**Portfolio:** https://yashbariportfolio.netlify.app/
+
+### 📱 Social Profiles
+
+* 🔵 LinkedIn: https://www.linkedin.com/in/yash-bari-143467216
+* 🔵 Facebook: https://www.facebook.com/yash.bari.391
+* 🟣 Instagram: https://www.instagram.com/yashrawat25/
+* 🔴 YouTube: https://www.youtube.com/channel/UChjQ3i7XWcFz6LtcHT9uZSw
 
 ---
 
