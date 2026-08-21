@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-* 💼 **AI & Full-Stack Developer** with **4.5+ years of experience**
+* 💼 **AI & Full-Stack Developer** with **5+ years of experience**
 * 🚀 Specialized in **MERN Stack & scalable web applications**
 * 🤖 Exploring **AI/ML, Generative AI & intelligent applications**
 * 🌱 Currently working on **AI-powered full-stack projects**
