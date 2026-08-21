@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Yash Bari
 
-### 🚀 AI & Full-Stack Developer | MERN Stack Developer
+### 🚀 AI & Full-Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Full-Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;Exploring+AI%2FML+%26+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Full-Stack+Developer;Full-Stack+Developer;Flutter+Developer;Building+Scalable+Web+%26+Mobile+Applications;Exploring+AI%2FML+%26+Intelligent+Systems" alt="Typing SVG" />
 
 </div>
 
@@ -13,10 +13,11 @@
 ## 👨‍💻 About Me
 
 * 💼 **AI & Full-Stack Developer** with **5+ years of experience**
-* 🚀 Specialized in **MERN Stack & scalable web applications**
-* 🤖 Exploring **AI/ML, Generative AI & intelligent applications**
+* 🚀 Specialized in **Full-Stack Web & Mobile Application Development**
+* 📱 Experienced in **Flutter & Cross-Platform Mobile Development**
+* 🤖 Exploring **AI/ML, Generative AI & Intelligent Applications**
 * 🌱 Currently working on **AI-powered full-stack projects**
-* 🤝 Open to collaborating on **MERN, AI/ML & Full-Stack projects**
+* 🤝 Open to collaborating on **AI/ML, Full-Stack & Flutter projects**
 * 📂 Portfolio: **https://yashbariportfolio.netlify.app/**
 * 📫 Email: **[24yashbari@gmail.com](mailto:24yashbari@gmail.com)**
 
@@ -24,7 +25,7 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
+### 💻 Frontend & Mobile
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
@@ -35,7 +36,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45"/>
 </p>
+
+**React • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Tailwind CSS • Redux • Flutter**
 
 ### ⚙️ Backend
 
@@ -46,6 +50,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
 </p>
 
+**Node.js • Express.js • Python • Java • REST APIs**
+
 ### 🗄️ Database & Cloud
 
 <p>
@@ -54,6 +60,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="45"/>
 </p>
+
+**MongoDB • PostgreSQL • MySQL • Firebase**
 
 ### 🤖 AI / ML
 
@@ -71,6 +79,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
 </p>
+
+**Git • GitHub • Linux • Postman**
 
 ---
 
@@ -127,24 +137,11 @@ Enterprise SaaS platform built with:
 <img src="https://img.shields.io/badge/YouTube-Yash%20Bari-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
-<a href="mailto:24yashbari@gmail.com" target="_blank">
+<a href="mailto:24yashbari@gmail.com">
 <img src="https://img.shields.io/badge/Email-24yashbari%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </p>
-
----
-
-### 🌍 Website
-
-**Portfolio:** https://yashbariportfolio.netlify.app/
-
-### 📱 Social Profiles
-
-* 🔵 LinkedIn: https://www.linkedin.com/in/yash-bari-143467216
-* 🔵 Facebook: https://www.facebook.com/yash.bari.391
-* 🟣 Instagram: https://www.instagram.com/yashrawat25/
-* 🔴 YouTube: https://www.youtube.com/channel/UChjQ3i7XWcFz6LtcHT9uZSw
 
 ---
 
